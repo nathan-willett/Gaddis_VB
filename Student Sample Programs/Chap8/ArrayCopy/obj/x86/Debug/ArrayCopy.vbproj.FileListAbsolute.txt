@@ -1,0 +1,13 @@
+D:\sovb12\Chapt_08\examples\ArrayCopy\bin\Debug\ArrayCopy.exe
+D:\sovb12\Chapt_08\examples\ArrayCopy\bin\Debug\ArrayCopy.pdb
+D:\sovb12\Chapt_08\examples\ArrayCopy\bin\Debug\ArrayCopy.xml
+D:\sovb12\Chapt_08\examples\ArrayCopy\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\sovb12\Chapt_08\examples\ArrayCopy\obj\x86\Debug\ArrayCopy.Resources.resources
+D:\sovb12\Chapt_08\examples\ArrayCopy\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\sovb12\Chapt_08\examples\ArrayCopy\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sovb12\Chapt_08\examples\ArrayCopy\obj\x86\Debug\ArrayCopy.exe
+D:\sovb12\Chapt_08\examples\ArrayCopy\obj\x86\Debug\ArrayCopy.xml
+D:\sovb12\Chapt_08\examples\ArrayCopy\obj\x86\Debug\ArrayCopy.pdb
+D:\sovb12\Student Sample Programs\Chap8\ArrayCopy\obj\x86\Debug\ArrayCopy.exe
+D:\sovb12\Student Sample Programs\Chap8\ArrayCopy\obj\x86\Debug\ArrayCopy.xml
+D:\sovb12\Student Sample Programs\Chap8\ArrayCopy\obj\x86\Debug\ArrayCopy.pdb

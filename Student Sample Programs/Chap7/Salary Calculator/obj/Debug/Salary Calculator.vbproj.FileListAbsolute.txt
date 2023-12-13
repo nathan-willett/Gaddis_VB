@@ -1,0 +1,2 @@
+D:\sovb12\Chapt_07\examples\Salary Calculator\bin\Debug\Salary Calculator.exe.config
+D:\sovb12\Student Sample Programs\Chap7\Salary Calculator\bin\Debug\Salary Calculator.exe.config

@@ -1,0 +1,11 @@
+C:\Users\Nathan Willett\OneDrive\repos\Gaddis - Visual Basic\repos\Directions\Directions\bin\Debug\Directions.exe.config
+C:\Users\Nathan Willett\OneDrive\repos\Gaddis - Visual Basic\repos\Directions\Directions\bin\Debug\Directions.exe
+C:\Users\Nathan Willett\OneDrive\repos\Gaddis - Visual Basic\repos\Directions\Directions\bin\Debug\Directions.pdb
+C:\Users\Nathan Willett\OneDrive\repos\Gaddis - Visual Basic\repos\Directions\Directions\bin\Debug\Directions.xml
+C:\Users\Nathan Willett\OneDrive\repos\Gaddis - Visual Basic\repos\Directions\Directions\obj\Debug\Directions.vbprojAssemblyReference.cache
+C:\Users\Nathan Willett\OneDrive\repos\Gaddis - Visual Basic\repos\Directions\Directions\obj\Debug\Directions.Form1.resources
+C:\Users\Nathan Willett\OneDrive\repos\Gaddis - Visual Basic\repos\Directions\Directions\obj\Debug\Directions.Resources.resources
+C:\Users\Nathan Willett\OneDrive\repos\Gaddis - Visual Basic\repos\Directions\Directions\obj\Debug\Directions.vbproj.GenerateResource.cache
+C:\Users\Nathan Willett\OneDrive\repos\Gaddis - Visual Basic\repos\Directions\Directions\obj\Debug\Directions.exe
+C:\Users\Nathan Willett\OneDrive\repos\Gaddis - Visual Basic\repos\Directions\Directions\obj\Debug\Directions.xml
+C:\Users\Nathan Willett\OneDrive\repos\Gaddis - Visual Basic\repos\Directions\Directions\obj\Debug\Directions.pdb

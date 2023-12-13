@@ -1,0 +1,11 @@
+C:\Users\Nathan Willett\OneDrive\repos\Gaddis - Visual Basic\Student Sample Programs\Chap3\Date String\Date String\bin\Debug\Date String.exe.config
+C:\Users\Nathan Willett\OneDrive\repos\Gaddis - Visual Basic\Student Sample Programs\Chap3\Date String\Date String\bin\Debug\Date String.exe
+C:\Users\Nathan Willett\OneDrive\repos\Gaddis - Visual Basic\Student Sample Programs\Chap3\Date String\Date String\bin\Debug\Date String.pdb
+C:\Users\Nathan Willett\OneDrive\repos\Gaddis - Visual Basic\Student Sample Programs\Chap3\Date String\Date String\bin\Debug\Date String.xml
+C:\Users\Nathan Willett\OneDrive\repos\Gaddis - Visual Basic\Student Sample Programs\Chap3\Date String\Date String\obj\Debug\Date String.vbprojAssemblyReference.cache
+C:\Users\Nathan Willett\OneDrive\repos\Gaddis - Visual Basic\Student Sample Programs\Chap3\Date String\Date String\obj\Debug\Date_String.Form1.resources
+C:\Users\Nathan Willett\OneDrive\repos\Gaddis - Visual Basic\Student Sample Programs\Chap3\Date String\Date String\obj\Debug\Date_String.Resources.resources
+C:\Users\Nathan Willett\OneDrive\repos\Gaddis - Visual Basic\Student Sample Programs\Chap3\Date String\Date String\obj\Debug\Date String.vbproj.GenerateResource.cache
+C:\Users\Nathan Willett\OneDrive\repos\Gaddis - Visual Basic\Student Sample Programs\Chap3\Date String\Date String\obj\Debug\Date String.exe
+C:\Users\Nathan Willett\OneDrive\repos\Gaddis - Visual Basic\Student Sample Programs\Chap3\Date String\Date String\obj\Debug\Date String.xml
+C:\Users\Nathan Willett\OneDrive\repos\Gaddis - Visual Basic\Student Sample Programs\Chap3\Date String\Date String\obj\Debug\Date String.pdb
